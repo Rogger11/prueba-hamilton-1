@@ -1,0 +1,17 @@
+.v-line{
+  border-left: solid #000;
+  height:100%;
+  left: 50%;
+  position: absolute;
+}
+
+h6{
+  font-size: 13px;
+}
+
+.shadow-el{
+  -webkit-box-shadow: -1px 1px 5px 0px rgba(222,222,222,1);
+  -moz-box-shadow: -1px 1px 5px 0px rgba(222,222,222,1);
+  box-shadow: -1px 1px 5px 0px rgba(222,222,222,1);
+  border-radius: 10px;
+}
